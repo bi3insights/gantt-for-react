@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hustcc/gantt-for-react.git"
+    "url": "https://github.com/bi3insights/gantt-for-react.git"
   },
   "keywords": [
     "react",
@@ -23,17 +23,12 @@
     "react-gantt",
     "pm",
     "Frappe Gantt",
-    "项目管理",
-    "甘特图",
     "graph",
     "react-component"
   ],
-  "author": "hustcc (https://github.com/hustcc)",
+  "author": "BI# Insights",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hustcc/gantt-for-react/issues"
-  },
-  "homepage": "https://github.com/hustcc/gantt-for-react",
+  "homepage": "https://github.com/bi3insights/gantt-for-react",
   "dependencies": {
     "frappe-gantt": "^0.6.1",
     "size-sensor": "^1.0.1"
